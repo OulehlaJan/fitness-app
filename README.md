@@ -9,5 +9,5 @@
 
 <!-- Gif -->
 <p align="center">
-  <img src="assets/ThisWillBeReady.gif" />
+  <img width="1200" src="assets/ThisWillBeReady.gif" />
 </p>

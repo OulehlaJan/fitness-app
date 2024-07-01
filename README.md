@@ -53,7 +53,7 @@ A quick look at the structure of this project.
     │   │    ├─── navbar
     │   │    │    ├─── index.tsx
     │   │    │    └─── Link.tsx
-    │   │    └─── ourClasses
+    │   │    ├─── ourClasses
     │   │    │    ├─── index.tsx
     │   │    │    └─── Class.tsx 
     │   ├─── shared

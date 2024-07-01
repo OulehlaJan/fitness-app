@@ -23,10 +23,10 @@
 
 ## &#129513; Dependencies
 
-+ Hero Icons
-+ Framer Motion
 + React Anchor Link Smooth Scroll
 + React Hook Form
++ Framer Motion
++ Hero Icons
 
 ## :open_file_folder: What's inside?
 
@@ -34,28 +34,48 @@ A quick look at the structure of this project.
 
     .
     ├── public
-    │   ├─── favicon.ico
-    │   ├─── index.html
-    │   ├─── manifest.json
-    │   └─── robots.txt
+    │   └─── Vite.svg
     ├── src
-    │   ├───components
-    │   │    ├─── InputField.tsx
-    │   │    ├─── SingleTodo.tsx
-    │   │    ├─── TodoList.tsx
-    │   │    └─── styles.css
-    │   ├───models
-    │   │    └─── model.ts
+    │   ├─── assets
+    │   │    └─── images...
+    │   ├─── hooks
+    │   │    └─── useMediaQuery.ts
+    │   ├─── scenes
+    │   │    ├─── benefits
+    │   │    │    ├─── index.tsx
+    │   │    │    └─── Benefit.tsx
+    │   │    ├─── contactUs
+    │   │    │    └─── index.tsx
+    │   │    ├─── footer
+    │   │    │    └─── index.tsx
+    │   │    ├─── home
+    │   │    │    └─── index.tsx
+    │   │    ├─── navbar
+    │   │    │    ├─── index.tsx
+    │   │    │    └─── Link.tsx
+    │   │    └─── ourClasses
+    │   │    │    ├─── index.tsx
+    │   │    │    └─── Class.tsx 
+    │   ├─── shared
+    │   │    ├─── ActionButton.tsx
+    │   │    ├─── HText.tsx
+    │   │    └─── types.ts
     │   ├─── App.tsx
-    │   ├─── App.css
-    │   ├─── index.tsx
     │   ├─── index.css
-    │   └─── react-app-env.d.ts
+    │   ├─── main.tsx
+    │   └─── vite-env.d.ts
     ├── License
     ├── README.md
+    ├── index.html
     ├── package-lock.json
     ├── package.json
-    └── tsconfig.json
+    ├── postcss.config.js
+    ├── prettier-config.cjs
+    ├── tailwind.config.js
+    ├── tsconfig.app.json
+    ├── tsconfig.json
+    ├── tsconfig.node.json
+    └── vite.config.ts
 
 
 # TypeScript + React + Vite

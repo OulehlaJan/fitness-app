@@ -34,7 +34,7 @@ A quick look at the structure of this project.
 
     .
     ├── public
-    │   └─── Vite.svg
+    │   └─── favicon.ico
     ├── src
     │   ├─── assets
     │   │    └─── images...

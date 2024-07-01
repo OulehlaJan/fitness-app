@@ -23,8 +23,10 @@
 
 ## &#129513; Dependencies
 
-+ React Beautiful DnD
-+ React Icons
++ Hero Icons
++ Framer Motion
++ React Anchor Link Smooth Scroll
++ React Hook Form
 
 ## :open_file_folder: What's inside?
 

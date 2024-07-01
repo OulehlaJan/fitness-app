@@ -18,7 +18,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="assets/" />
+  <img src="assets/FitnessApp.gif" />
 </p>
 
 ## &#129513; Dependencies

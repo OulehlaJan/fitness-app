@@ -12,9 +12,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/85d75531-9c42-484c-9a8e-22e65467d979/deploy-status)](https://app.netlify.com/sites/fitness-app-oulehlajan/deploys) <br />
 
 <!-- Demo Link -->
-<p align="center">
+<h3 align="center">
   <a href="https://fitness-app-oulehlajan.netlify.app/">Fitness App</a>:point_left: <br />
-</p>
+</h3>
 
 <!-- GIF -->
 <p align="center">
